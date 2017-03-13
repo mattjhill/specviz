@@ -726,5 +726,5 @@ QCheckBox::indicator:checked:hover {{
 QCheckBox::indicator:checked:pressed {{
     image: url({0});
 }}
-""".format(os.path.join(ICON_PATH, 'lock.svg'),
-           os.path.join(ICON_PATH, 'unlock.svg'))
+""".format(os.path.join(ICON_PATH, 'Lock-48.png'),
+           os.path.join(ICON_PATH, 'Unlock-48.png'))
